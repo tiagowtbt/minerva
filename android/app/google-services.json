@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "865015503232",
+    "firebase_url": "https://climademinerva.firebaseio.com",
+    "project_id": "climademinerva",
+    "storage_bucket": "climademinerva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865015503232:android:197675c99f99887c338965",
+        "android_client_info": {
+          "package_name": "i.minerva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865015503232-mlqhubgs9nj445rijm0ttqsi0cq5kk9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "i.minerva",
+            "certificate_hash": "930279ada20a53881ba900cd5680488e3a817e38"
+          }
+        },
+        {
+          "client_id": "865015503232-q6499dihc60s0dd5mdct6gitj5qqp3je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV2NH-NKONC6m8EZMClBELhcijeJ39rKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865015503232-q6499dihc60s0dd5mdct6gitj5qqp3je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
