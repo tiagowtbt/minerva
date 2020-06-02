@@ -78,7 +78,7 @@ class _RootState extends State<Root> {
         break;
       case AuthStatus.LOGGED_IN: //manda para a tela inicial do app se o login for verificado
         if (_userId.length > 0 && _userId != null) {
-          return new frontpage(
+          return new Frontpage(
             userId: _userId,
             auth: widget.auth,
             logoutCallback: logoutCallback,
